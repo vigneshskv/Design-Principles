@@ -2,24 +2,24 @@
 - [Introduction](#introduction)
   - [Acronym](#acronym)
   - [Advantage](#advantage-of-following-solid-principles)
-- [Solid principles in detial](#solid-principles-in-detial)
-  - [Single Responsiblity Principle](#single-responsiblity-principle)
-  - [Open closed Principle](#opne-closed-principle)
-  - [Liskov substitution Principle](#liskov-substitutin-principle)
-  - [Interface Segregation Principle](#interface-segregation-principle)
-  - [Dependency Inversion Principle](#dependency-inversion-principle)
+- [Solid principles in detail](#solid-principles-in-detail)
+  - [Single Responsiblity Principle](#single-responsiblity-principle-(srp))
+  - [Open closed Principle](#opne-closed-principle-(osp))
+  - [Liskov substitution Principle](#liskov-substitutin-principle-(lsp))
+  - [Interface Segregation Principle](#interface-segregation-principle-(isp))
+  - [Dependency Inversion Principle](#dependency-inversion-principle(dip))
 
 # Introduction #
 Design principles to manage most of software design problems.
 Helps to design a software that is understandable, flexibe and manageable.
  
-# Acronym #
+## Acronym ##
  | Acronym | Meaning |
  | --- | --- |
  | S | Single Responsiblity Principle (SRP) |
  | O | Open closed Principle (OSP) |
  | L | Liskov substitution Principle (LSP) |
- | I | Interface Segregation Principle (IS{) |
+ | I | Interface Segregation Principle (ISP) |
  | D | Dependency Inversion Principle (DIP) }
 
 ## Advantage of following SOLID principles ##
@@ -34,6 +34,14 @@ Helps to design a software that is understandable, flexibe and manageable.
 A class should have only one reason to change.
 
 Every class or module should have resposiblity over a single part of the functionality provided by the software, and that responsiblity shopuld be entirely encapsulated by the class.
+
+### Motivation ###
+- Maintainablity
+- Testablity
+- Flexiblity and Extensiblity
+- Parallel Development
+- Loose Coupling
+
 
 ## Open closed Principle (OSP) ##
 Software entities should be open for extension, but closed for modification.
