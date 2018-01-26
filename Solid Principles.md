@@ -1,6 +1,6 @@
 # SOLID Principles #
 - [Introduction](#introduction}
--- Advantage(#advantage-of-following-solid-principles)
+  - Advantage(#advantage-of-following-solid-principles)
 - [Solid principles in detial](#solid-principles-in-detial)
 
 # Introduction #
