@@ -8,6 +8,7 @@
   - [Liskov substitution Principle](#liskov-substitutin-principle-(lsp))
   - [Interface Segregation Principle](#interface-segregation-principle-(isp))
   - [Dependency Inversion Principle](#dependency-inversion-principle(dip))
+- [Reference](#reference)
 
 # Introduction #
 Design principles to manage most of software design problems.
@@ -68,3 +69,8 @@ One should depend upon abstractions, not concretions.
 
 Abstractions should not depend on the detials whereas the detials should depend on abstractions.
 High-level modules should not depend on low level modules.
+
+
+# Referenc #
+ - [butunclebob](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+ - [Youttube Tutorial](https://www.youtube.com/watch?v=HLFbeC78YlU)
