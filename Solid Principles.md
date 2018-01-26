@@ -1,12 +1,19 @@
 # SOLID Principles #
-- [Introduction](#introduction}
-  - Advantage(#advantage-of-following-solid-principles)
+- [Introduction](#introduction)
+  - [Acronym](#acronym)
+  - [Advantage](#advantage-of-following-solid-principles)
 - [Solid principles in detial](#solid-principles-in-detial)
+  - [Single Responsiblity Principle](#single-responsiblity-principle)
+  - [Open closed Principle](#opne-closed-principle)
+  - [Liskov substitution Principle](#liskov-substitutin-principle)
+  - [Interface Segregation Principle](#interface-segregation-principle)
+  - [Dependency Inversion Principle](#dependency-inversion-principle)
 
 # Introduction #
 Design principles to manage most of software design problems.
 Helps to design a software that is understandable, flexibe and manageable.
  
+# Acronym #
  | Acronym | Meaning |
  | --- | --- |
  | S | Single Responsiblity Principle (SRP) |
